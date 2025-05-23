@@ -1,0 +1,13 @@
+.answer-text {
+  font-size: 16px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow: auto;
+  max-height: 300px;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.answer-text::-webkit-scrollbar {
+  display: none;
+}
