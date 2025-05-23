@@ -46,16 +46,23 @@ npm run dev
 
 src/
 ├── components/         # Reusable UI components (ChatBox, Message, etc.)
+
 ├── pages/              # Main page(s)
+
 ├── assets/             # Static assets like images or icons
+
 ├── App.jsx             # Main application component
+
 ├── main.jsx            # Entry point
+
 ├── index.css           # Tailwind base styles
 
 
 ✨ Screenshots
  main page : ![image](https://github.com/user-attachments/assets/cd82cbb6-9f76-4327-8b02-08f865fc92fb)
+ 
  Chat Interface : ![image](https://github.com/user-attachments/assets/63708bb5-ae6b-4717-aa04-4b1cb10db05c)
+ 
  Local-Storage : ![image](https://github.com/user-attachments/assets/7e19a7b3-acb5-4144-94d2-7d067319b3da)
 
 
