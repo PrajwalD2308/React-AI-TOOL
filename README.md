@@ -76,4 +76,5 @@ GitHub Pages (via gh-pages)
 Example for Vercel: vercel --prod
 
 🙌 Contributing
+
 Feel free to fork this repo, add features, or improve the UI. Pull requests are welcome!
